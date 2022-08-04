@@ -1,5 +1,7 @@
 # MaxNonCollidingGuessesWorlde
 
+![wow so quick](VsDebugConsole_k1UwRs1yTL.png "A screenshot")
+
 https://youtu.be/_-AfhLQfb6w
 
 Damn you Parker, you [nerd sniped me](https://xkcd.com/356/)
