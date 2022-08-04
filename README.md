@@ -1,7 +1,8 @@
 # MaxNonCollidingGuessesWorlde
 
-Damn you Parker, you [nerd sniped me](https://xkcd.com/356/)
 https://youtu.be/_-AfhLQfb6w
+
+Damn you Parker, you [nerd sniped me](https://xkcd.com/356/)
 
 # How to run
 Make sure you have `cmake` installed and in path or substitute the full path
